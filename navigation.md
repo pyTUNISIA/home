@@ -1,8 +1,8 @@
-# About
+# Home
 
 [pyTUNISIA](page1.md)
-[pyTools](page2.md)
-[pyDocs](page3.md)
+[Environnements](page2.md)
+[Documentation](page3.md)
 
 [Formations]()
 
@@ -12,7 +12,7 @@
 
 [Conférences]()
 
-  * [pyconfTUNISIA2019]( https://riadhbennessib.github.io/pyTUNISIA/pyconfTUNISIA.html)
+  * [pyconfTUNISIA2019]( https://https://pytunisia.github.io/home/pyconfTUNISIA.html)
   * [astropyconfTUNISIA2019](subpage/page2.md)
   * [pyPrepaconfTUNISIA2019](subpage/page3.md)
 
