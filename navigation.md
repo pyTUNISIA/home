@@ -1,9 +1,7 @@
 # Home
 
 [pyTUNISIA](page1.md)
-[Environnements](page2.md)
-[Documentation](page3.md)
-
+[astropyTUNISIA](page2.md)
 [Formations]()
 
   * [Ateliers](subpage/page1.md)
