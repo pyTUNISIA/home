@@ -13,6 +13,6 @@
 <preview-lia src="https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//DhxpqiUJ7/download#2" target="_blank">
 </preview-lia>
 
-## Article 004: Bibliothèques de programmes(les packages
+## Article 004: Bibliothèques de programmes(Packages)
 <preview-lia src="https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//tvszSl_j9/download#2" target="_blank">
 </preview-lia>
