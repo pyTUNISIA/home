@@ -6,8 +6,8 @@
 
 </p>
 <p align="center">
-<figure align="center">
+
   <img src="images/riadhbennessib.png" alt="image de riadhbennessib" />
-  <figcaption>© riadh BEN NESSIB.</figcaption>
-</figure>
+  <p align="center">© riadh BEN NESSIB.</p>
+
 </p>
