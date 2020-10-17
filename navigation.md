@@ -3,17 +3,10 @@
 [astroTUNISIA](page0.md)
 [pyTUNISIA](page1.md)
 [astropyTUNISIA](page2.md)
-[Formations]()
-
-  * [Ateliers](formations/pageAteliers.md)
-  * [Formations](formations/pageFormations.md)
-  * [Camps](formations/pageCamps.md)
-
+[pyLearning](page3.md)
 [Conférences]()
-
   * [pyconfTUNISIA2019]( https://pytunisia.github.io/home/pyconfTUNISIA.html)
-  * [astropyconfTUNISIA2019](conférences/pageConférences.md)
-  * [pyPrepaconfTUNISIA2019](conférences/pageConférences.md)
+[A propos](page4.md) 
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](cosmo)
