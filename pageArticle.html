@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script>
+        function ViewIFRAME(article) {
+           
+            window.document.write('<iframe src=" ')
+            window.document.write(article+ '"') 
+            window.document.writeln('name="iframe_a" height="600px" width="100%" ></iframe>')       
+        }
+    </script>
+   
+</head>
+<body>
+  
+
+ <script>
+    
+        var parameters = location.search.substring(1).split("&");
+        var temp = parameters[0].split("=");
+        var userarticle = unescape(temp[1]);
+/*      window.document.writeln(userarticle)
+        var UnArticle='https://tinyurl.com/astropy001'
+        if (userarticle==UnArticle) {
+            window.document.writeln('les deux variables sont identiques!')
+            window.document.writeln('userarticle:',userarticle)
+            window.document.writeln('UnArticle:', UnArticle)
+
+            
+        } else {
+            window.document.writeln('les deux variables sont différentes!!!')
+            window.document.writeln('userarticle:',userarticle)
+            window.document.writeln('UnArticle:', UnArticle)
+
+
+        } */
+        ViewIFRAME(userarticle)
+        // ViewIFRAME(UnArticle)
+        // ViewIFRAME('https://tinyurl.com/astropy001')
+
+    
+
+
+ </script>
+</body>
+</html>
+
