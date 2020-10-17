@@ -6,4 +6,4 @@
 ## Les Astrolabes.
 ## L'Astronomie arabe entre Ptolémée et Copernic.
 ## Histoire de l'Astronomie et de l'Astronautique.
-## Introduction à l'Astronomie : le Système Solaire.
+## Introduction à l'Astronomie : Le Système Solaire.
