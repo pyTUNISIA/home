@@ -11,6 +11,12 @@
         8. Chapitre 08. POO
 
 ## Cours : Programmation Scientifique avec Python.
+        1. Chapitre 01: Numpy
+        2. Chapitre 02: Matplotlib
+        3. Chapitre 03: Scipy
+        4. Chapitre 04: Panda
+        5. Chapitre 05: Sympy
+        6. Chapitre 06: NetworkX
 
 ## Cours : Data Science avec Python.
 
