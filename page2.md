@@ -17,7 +17,7 @@ src="https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de
 
 <preview-lia 
 link="pageArticle.html?article=https://tinyurl.com/yxzgcycd"
-src="https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//DhxpqiUJ7/download#2">
+src="https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//BZ9JkE1TS/download#2">
 </preview-lia> 
 
 ## astropyTUNISIA
