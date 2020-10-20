@@ -10,5 +10,5 @@
 ## astroTUNISIA
 
 <preview-Lia
-src="preview/previewAstroTUNISIA.md">
+src="preview/previewAstroTUNISIA.md/download#1">
 </preview-Lia>
