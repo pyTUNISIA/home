@@ -9,5 +9,4 @@ mode: Textbook
 -->
 
 # astroTUNISIA
-
-![Image astroTUNISIA.png]( https://raw.githubusercontent.com/pyTUNISIA/home/master/images/pyTUNISIA.png)
+![Image astroTUNISIA.png](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/pyTUNISIA.png)
