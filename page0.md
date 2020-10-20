@@ -7,6 +7,13 @@
 ## L'Astronomie arabe entre Ptolémée et Copernic.
 ## Histoire de l'Astronomie et de l'Astronautique.
 ## Introduction à l'Astronomie : Le Système Solaire.
+
+<preview-Lia
+link="https://tinyurl.com/y69w6n2q"
+src ="https://liascript.github.io/course/?https://tinyurl.com/y69w6n2q">
+</preview-Lia>
+
+
 ## astroTUNISIA
 
  
