@@ -11,6 +11,6 @@
 
  
 <preview-Lia
-link="https://pytunisia.github.io/home/pageArticle.html?article=https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/preview/previewAstroTUNISIA.md#1"
+link="https://tinyurl.com/y69w6n2q"
 src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/preview/previewAstroTUNISIA.md#1">
 </preview-Lia>
