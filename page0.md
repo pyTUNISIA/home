@@ -10,5 +10,5 @@
 ## astroTUNISIA
 
 <preview-Lia
-src="https://github.com/pyTUNISIA/home/tree/master/preview/previewAstroTUNISIA.md/download#1">
+src="https://raw.githubusercontent.com/pyTUNISIA/home/master/preview/previewAstroTUNISIA.md/download#1">
 </preview-Lia>
