@@ -40,7 +40,7 @@ src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTU
 ## Histoire de l'Astronomie et de l'Astronautique.
 
 <preview-Lia
-link="https://tinyurl.com/y69w6n2q"
+link="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/preview/previewAstroTUNISIA.md#6"
 src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/preview/previewAstroTUNISIA.md#6">
 </preview-Lia>
 
