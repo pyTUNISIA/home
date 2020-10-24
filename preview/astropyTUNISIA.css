@@ -19,7 +19,7 @@ h1.lia-h1 {
   background: var(--main-bg-color) !important;
   background-image: url("https://pytunisia.github.io/home/images/stellarium.jpg") !important;
   background-size: contain !important;
-  background-repeat: no-repeat !important;
+  background-repeat: repeat !important;
   background-position: center !important;
 }
 
