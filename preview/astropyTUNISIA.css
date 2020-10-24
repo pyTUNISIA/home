@@ -2,7 +2,7 @@
 
 
 :root {
-  --main-bg-color: #FF0000;
+  --main-bg-color: #FFde59;
 }
 
 body {
@@ -17,7 +17,7 @@ h1.lia-h1 {
 
 .lia-slide .lia-toolbar {
   background: var(--main-bg-color) !important;
-  background-image: url("https://liascript.github.io/course/logo_192.c4a21617.png") !important;
+  background-image: url("https://pytunisia.github.io/home/images/stellarium.jpg") !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
