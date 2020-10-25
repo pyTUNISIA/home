@@ -2,26 +2,22 @@
 
 ## Bibliothèques de programmes(Packages) 
 <preview-lia 
-link="pageArticle.html?article=https://tinyurl.com/yyrcq3q9"
-src="https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//tvszSl_j9/download#2">
+src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/article001.md#1">
 </preview-lia>
 
 ## Bibliographie python 
 <preview-lia 
-link="pageArticle.html?article=https://tinyurl.com/y3anj4b2"
-src="https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//DhxpqiUJ7/download#2">
+src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/article001.md#1">
 </preview-lia> 
 
 ## Coder,Coder et Coder!
 
 <preview-lia 
-link="pageArticle.html?article=https://tinyurl.com/yxzgcycd"
-src="https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//BZ9JkE1TS/download#2">
+src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/article001.md#1">
 </preview-lia> 
 
 ## pyTUNISIA
 <preview-lia 
-link="pageArticle.html?article=https://tinyurl.com/y35gr8ve"
-src="https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//jEpBZIQtm/download#1">
+src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/article001.md#1">
 </preview-lia> 
 
