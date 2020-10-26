@@ -3,7 +3,7 @@ author:   (c) riadh BEN NESSIB
 email:    riadhbennessib@gmail.com
 version:  0.1.0
 language: fr
-logo:     https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIA.png
+logo:     https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/ScientificPythonLogos02.jpg
 comment:  pyTUNISIA: Programmation Scientifique avec python..
 script:   https://pyodide-cdn2.iodide.io/v0.15.0/full/pyodide.js
 mode:  Textbook
