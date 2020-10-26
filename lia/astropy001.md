@@ -138,3 +138,55 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 
 # Astropy 001: astropyTUNISIA
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropypyTUNISIA.png)
+
+## Astronomie
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropypyTUNISIA.png)
+
+> Introduction
+L'astronomie est la science qui étudit les planètes,les étoiles et les galaxies.
+> Le système solaire
+Autour du Soleil , des planètes gravitent sur un même plan appelé l'écliptique.
+> Les étoiles 
+Une étoile est une boule de gaz très chaud.
+
+
+> Les galaxies
+Une galaxie est un ensemble de milliards d'étoiles.
+
+## Maths
+
+> La loi de gravitation universelle stipule que deux masses M et m s'attirent mutuellement avec une force proportionnelle aux masses et inversement proportionnelle au carré de la distance r qui les sépare:
+>  $$ \vec{F} = - \frac{ G M m }{r^2} \vec{u}$$
+>
+
+## Python
+
+
+
+```python
+# ------------------------
+# Exemple 01 : Hello World
+# ------------------------
+print('Hello World!')
+# ------------------------
+```
+@Pyodide.eval
+
+
+```python
+# ----------------------
+# Exemple 02 : Graphique
+# ----------------------
+import numpy as np
+import matplotlib.pyplot as plt
+t = np.arange(0.0, 2.0, 0.01)
+s = np.sin(2 * np.pi * t)
+fig, ax = plt.subplots()
+ax.plot(t, s)
+ax.grid(True, linestyle='-.')
+ax.tick_params(labelcolor='r', labelsize='medium', width=3)
+plt.show()
+plot(fig) 
+# ------------------------
+```
+@Pyodide.eval
