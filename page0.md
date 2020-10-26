@@ -41,7 +41,7 @@ src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTU
 ## Introduction à l'Astronomie : Le Système Solaire.
 
 <preview-Lia
-src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/article001.md#1">
+src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astro001.md#1">
 </preview-Lia>
 
 
