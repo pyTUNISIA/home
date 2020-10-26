@@ -3,7 +3,7 @@ author:   (c) riadh BEN NESSIB
 email:    riadhbennessib@gmail.com
 version:  0.1.0
 language: fr
-logo: https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTunisiaBooks.png
+logo: https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTunisiaBooks.PNG
 comment:  pyTUNISIA: Programmation Scientifique avec python.
 mode: Textbook
 script:   https://pyodide-cdn2.iodide.io/v0.15.0/full/pyodide.js
@@ -44,7 +44,6 @@ window.loadModules()
 
 function initPlot() {
 try {
-
 pyodide.runPython(`
 import io, base64
 
@@ -77,7 +76,6 @@ function runPython() {
     setTimeout(() => {
       try {
         initPlot()
-
         let fin = pyodide.runPython(`@input`)
         if (fin) {
           console.log(fin)
@@ -108,7 +106,6 @@ function runPython() {
         }
         else {
           console.error(e)
-
           send.lia("LIA: stop")
         }
       }
@@ -142,7 +139,7 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 
 ## Bibliographie Python.
 
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTunisiaBooks.png)<!--
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTunisiaBooks.PNG)<!--
 style = "width: 500px;
         Height:250px;
         display: flex;
