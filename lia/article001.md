@@ -32,7 +32,7 @@ style = "width: 500px;
 
 ## Coder, coder et coder!
 
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_bcf21854be48d56cfdfbc770662ace94.png)<!--
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIA.png)<!--
 style = "width: 500px;
         Height:400px;
         display: flex;
@@ -60,7 +60,7 @@ Installez l'une de ces distributions et vous êtes dans l'Univers de la programm
 
 
 ## Qui suis-je?
-> ![](https://liamd.informatik.tu-freiberg.de/uploads/upload_0f3cda5777fdedc0d488186dda3c1d16.png)
+> ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/Logos/riadhbennessib.png)
 >
 > (c) riadh BEN NESSIB
 > 
