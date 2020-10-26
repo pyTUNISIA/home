@@ -4,7 +4,7 @@ author:   (c) riadh BEN NESSIB
 email:    riadhbennessib@gmail.com
 version:  0.1.0
 language: fr
-logo: https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIA.png
+logo: https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIABooks.png
 comment:  pyTUNISIA: Programmation Scientifique avec python.
 mode: Textbook
 script:   https://pyodide-cdn2.iodide.io/v0.15.0/full/pyodide.js
@@ -143,7 +143,7 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 
 ## Bibliographie Python.
 
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIA.png)<!--
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIABooks.png)<!--
 style = "width: 500px;
         Height:250px;
         display: flex;
