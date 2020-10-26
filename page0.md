@@ -9,7 +9,6 @@ src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTU
 ## Les Cadrants Solaires.
 
 <preview-Lia
-link="https://tinyurl.com/y69w6n2q"
 src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astro001.md#1">
 </preview-Lia>
 
@@ -42,7 +41,7 @@ src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTU
 ## Introduction à l'Astronomie : Le Système Solaire.
 
 <preview-Lia
-src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astro001.md#1">
+src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/article001.md#1">
 </preview-Lia>
 
 
