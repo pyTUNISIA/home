@@ -231,7 +231,7 @@ print( 'matplotlib : {}'.format(mp.__version__))
 
 ## Le Python Package Index (PyPi)
 >  Python Package Index
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/PyPi.png)<!--
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/PyPi.PNG)<!--
 style = "width: 400px;
         Height:200px;
         display: flex;
