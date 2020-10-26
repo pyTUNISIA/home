@@ -18,6 +18,6 @@ src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUN
 
 ## pyTUNISIA
 <preview-lia 
-src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astro001.md#1">
+src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/article001.md#1">
 </preview-lia> 
 
