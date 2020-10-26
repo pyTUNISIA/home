@@ -14,14 +14,6 @@ mode: Textbook
 ## Introduction à la programmation scientifique avec python
 
 ![Image astroTUNISIA.png](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIA.png)
-style = "width: 500px;
-        Height:400px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        border: 5px solid;
-         // filter: grayscale(100%);"
--->
 
 
 > La science se fonde sur la théorie. L'expérience vient confirmer ou infirmer les connaissances. La simulation vient nous faciliter l'expérience et confirmer la science! 
