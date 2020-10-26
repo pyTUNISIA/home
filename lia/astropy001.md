@@ -1,7 +1,4 @@
-
-
 <!--
-
 author:   (c) riadh BEN NESSIB
 email:    riadhbennessib@gmail.com
 version:  0.1.0
@@ -39,7 +36,6 @@ window.loadModules()
 
 @end
 
-
 @Pyodide.eval: @Pyodide.eval_(@uid)
 
 @Pyodide.eval_
@@ -50,7 +46,6 @@ try {
 
 pyodide.runPython(`
 import io, base64
-
 try:
   img_str_
 except NameError:
@@ -80,7 +75,6 @@ function runPython() {
     setTimeout(() => {
       try {
         initPlot()
-
         let fin = pyodide.runPython(`@input`)
         if (fin) {
           console.log(fin)
