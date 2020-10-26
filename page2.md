@@ -1,17 +1,12 @@
 # astropyTUNISIA
 
-## Bibliothèques de programmes(Packages) 
-<preview-lia 
-src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astropy001.md#1">
-</preview-lia>
-
-## Bibliographie python 
+## Calcul du jour julien
 <preview-lia 
 src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astropy001.md#1">
 </preview-lia> 
 
 
-## Coder,Coder et Coder!
+## Le tout gravite autour de l'ordinateur!
 
 <preview-lia 
 src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astropy001.md#1">
