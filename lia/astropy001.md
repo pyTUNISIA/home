@@ -140,7 +140,7 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
 
 ## Astronomie
-![]("https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/De la Terre à l Univers.jpg")
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/De la Terre à l Univers.jpg)
 
 > Introduction
 L'astronomie est la science qui étudit les planètes,les étoiles et les galaxies.
