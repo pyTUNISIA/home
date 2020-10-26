@@ -13,7 +13,7 @@ mode: Textbook
 
 ## Introduction à la programmation scientifique avec python
 
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_577628d3be1f7867c1b88fbd8e04c43f.png)<!--
+![Image astroTUNISIA.png](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIA.png)
 style = "width: 500px;
         Height:400px;
         display: flex;
@@ -32,7 +32,7 @@ style = "width: 500px;
 
 ## Coder, coder et coder!
 
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIA.png)<!--
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/CoderCedricVillany.png)<!--
 style = "width: 500px;
         Height:400px;
         display: flex;
