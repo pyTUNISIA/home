@@ -13,7 +13,7 @@ mode: Textbook
 
 ## Introduction à la programmation scientifique avec python
 
-![Image astroTUNISIA.png](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIA.png)<!--
+![Image astroTUNISIA.png](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pspTUNISIA.png)<!--
 style = "width: 500px;
         Height:400px;
         display: flex;
