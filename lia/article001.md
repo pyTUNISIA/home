@@ -60,7 +60,8 @@ Installez l'une de ces distributions et vous êtes dans l'Univers de la programm
 
 
 ## Qui suis-je?
-> ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/Logos/riadhbennessib.png)
+
+> ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/riadhbennessib.png)
 >
 > (c) riadh BEN NESSIB
 > 
