@@ -3,17 +3,19 @@ author: (c) riadh BEN NESSIB
 email: riadhbennessib@gmail.com
 version: 0.1.0
 language: fr
-logo: https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium.jpg
+logo: https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/cadrans/Gnomon.jpg
 comment: astroTUNISIA: Astronomie pour tous.
 mode: Textbook
 -->
 
 # astro007: Les Cadrans Solaires.
-![Image astroTUNISIA.png](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium.jpg)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/cadrans/Gnomon.jpg)
 
 
 # Introduction
-    Un cadran solaire est un instrument qui indique le temps solaire par le déplacement de l'ombre d'une tige sur une surface, la table du cadran. La table est généralement plane mais peut aussi être sphérique, cylindrique ou autre. L’ombre projeté par la tige sur l’ensemble de graduations tracées sur cette surface permet de lire l’heure solaire.  L’atelier présente le principe et les trois grandes périodes d’évolution des cadrans : Le Gnomon, le Polos  et  le Style. A travers des monuments historiques on montre les quatre différents types de cadrans les plus répondues. Ce sont les cadrans polaires, équatoriaux, horizontaux et verticaux. Leurs principes et calculs sont simplifiés par l’utilisation de feuilles de calcul excel et de construction géométriques élémentaires. Les participants  partiront avec leurs modèles de cadrans en carton.
+    
+   <p> Un cadran solaire est un instrument qui indique le temps solaire par le déplacement de l'ombre d'une tige sur une surface, la table du cadran. La table est généralement plane mais peut aussi être sphérique, cylindrique ou autre. L’ombre projeté par la tige sur l’ensemble de graduations tracées sur cette surface permet de lire l’heure solaire.  L’atelier présente le principe et les trois grandes périodes d’évolution des cadrans : Le Gnomon, le Polos  et  le Style. A travers des monuments historiques on montre les quatre différents types de cadrans les plus répondues. Ce sont les cadrans polaires, équatoriaux, horizontaux et verticaux. Leurs principes et calculs sont simplifiés par l’utilisation de feuilles de calcul excel et de construction géométriques élémentaires. Les participants  partiront avec leurs modèles de cadrans en carton.</p>
+    
 
 *Activités* : 
 
