@@ -142,7 +142,7 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 
 # Introduction
 
-Dans l’Univers de l’informatique, les logiciels qui tournent autour de l’astronomie sont nombreux. le logiciel de représentation du ciel Stellarium par exemple est une belle invitation à l’observation du ciel nocturne, on peut l’utiliser aussi comme base de données astronomiques.Celestia, le célèbre logiciel des amateurs d’astronomie, vous présente la carte d’identité universelle du système solaire avec toutes les données numériques et les caractéristiques des différents planètes.
+Dans l’Univers de l’informatique, les logiciels qui tournent autour de l’astronomie sont nombreux. le logiciel de représentation du ciel Stellarium par exemple est une belle invitation à l’observation du ciel nocturne, on peut l’utiliser aussi comme base de données astronomiques.Celestia, le célèbre logiciel des amateurs d’astronomie, vous présente la carte d’identité universelle du système solaire avec toutes les données numériques et les caractéristiques des différentes planètes.
 
 En fait, s’ils sont nombreux, beaux à voir avec leurs images numériques illustratifs des phénomènes régnant les objets qu’ils présentent, ces logiciels ne présentent pas les données astronomiques sous forme propice à la compréhension d’un concept, à l’élaboration d’un modèle et à la réalisation d’une simulation.
 
@@ -156,13 +156,15 @@ Si la science utilise du vocabulaire spécifique et pointu, génère de grands n
 
 # La notion de Concept.
 
-La théorie se fonde sur certains concepts comme la masse,la force, ou la charge électrique. ces concepts délimitent un certain champ de représentation qui est le monde que l’on veut décri et se représenter à partir de ces concepts. Il est clair par exemple que la notion de courant électrique échappe au champ de représentation de la mécanique newtonienne, puisque le concept de charge électrique n’existe pas dans la mécanique newtonienne.
+La théorie se fonde sur certains concepts comme la masse,la force, ou la charge électrique. Ces concepts délimitent un certain champ de représentation qui est le monde que l’on veut décrire et se représenter à partir de ces concepts. Il est clair par exemple que la notion de courant électrique échappe au champ de représentation de la mécanique newtonienne, puisque le concept de charge électrique n’existe pas dans la mécanique newtonienne.
 
 A l’intérieur d’un champ de représentation , on élabore des lois à partir de ses concepts. Ces lois constituent l’ossature du modèle par lequel un phénomène est représenté.
 
 # La notion de Modèle.
 
-Un modèle est une représentation, en général simplifié, d’un phénomène ou d’un objet. Son élaboration succède à un ensemble d’observations qui circonscrivent, dénombrent et relient entre eux les divers concepts et propriétés du phénomène ou de l’objet. La comparaison et la confrontation du modèle aux observations testent et validité et la justesse de la représentation du phénomène ou de l’objet. L’acceptation de celui-ci est préservé tant que de nouvelles observations ne remettent pas en question validité. L’astronomie et la physique ont données naissance à de nombreux modèles. les plus simples mais aussi les plus révolutionnaires sont ceux de l’atome d’hydrogène et du système solaire.Ses deux systèmes ont de tout temps intrigué les Homme car ils représentent l’infiniment petit et l’infiniment grand, et à ce propos, je vous invite à lire excellent petit livre intitulé ‘Macro-Micro je mesure l’Univers’, que la Cité des Science à Tunis édite en langue arabe sous le titre ‘أقيس الكون’.
+Un modèle est une représentation, en général simplifié, d’un phénomène ou d’un objet. Son élaboration succède à un ensemble d’observations qui circonscrivent, dénombrent et relient entre eux les divers concepts et propriétés du phénomène ou de l’objet. La comparaison et la confrontation du modèle aux observations testent et validité et la justesse de la représentation du phénomène ou de l’objet. L’acceptation de celui-ci est préservé tant que de nouvelles observations ne remettent pas en question validité. 
+
+L’astronomie et la physique ont données naissance à de nombreux modèles. Les plus simples mais aussi les plus révolutionnaires sont ceux de l’atome d’hydrogène et du système solaire. Ses deux systèmes ont de tout temps intrigué les Hommes car ils représentent l’infiniment petit et l’infiniment grand, et à ce propos, je vous invite à lire l'excellent petit livre intitulé ‘Macro-Micro je mesure l’Univers’, que la Cité des Science à Tunis édite en langue arabe sous le titre ‘أقيس الكون’.
 
 # La notion de Simulation.
 
