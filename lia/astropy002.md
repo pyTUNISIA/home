@@ -164,7 +164,7 @@ A l’intérieur d’un champ de représentation , on élabore des lois à parti
 
 Un modèle est une représentation, en général simplifié, d’un phénomène ou d’un objet. Son élaboration succède à un ensemble d’observations qui circonscrivent, dénombrent et relient entre eux les divers concepts et propriétés du phénomène ou de l’objet. La comparaison et la confrontation du modèle aux observations testent et validité et la justesse de la représentation du phénomène ou de l’objet. L’acceptation de celui-ci est préservé tant que de nouvelles observations ne remettent pas en question validité. 
 
-L’astronomie et la physique ont données naissance à de nombreux modèles. Les plus simples mais aussi les plus révolutionnaires sont ceux de l’atome d’hydrogène et du système solaire. Ses deux systèmes ont de tout temps intrigué les Hommes car ils représentent l’infiniment petit et l’infiniment grand, et à ce propos, je vous invite à lire l'excellent petit livre intitulé ‘Macro-Micro je mesure l’Univers’, que la Cité des Science à Tunis édite en langue arabe sous le titre ‘أقيس الكون’.
+L’astronomie et la physique ont donné naissance à de nombreux modèles. Les plus simples mais aussi les plus révolutionnaires sont ceux de l’atome d’hydrogène et du système solaire. Ses deux systèmes ont de tout temps intrigué les Hommes car ils représentent l’infiniment petit et l’infiniment grand, et à ce propos, je vous invite à lire l'excellent petit livre intitulé ‘Macro-Micro je mesure l’Univers’, que la Cité des Science à Tunis édite en langue arabe sous le titre ‘أقيس الكون’.
 
 # La notion de Simulation.
 
