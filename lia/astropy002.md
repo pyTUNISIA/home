@@ -181,7 +181,12 @@ Parmi les triomphes de la simulation on a l’exemple du problème à N-corps. C
 
 Les ordinateurs offrent un moyen puissant de simulation de phénomènes astronomiques. Les programmer via un langage de programmation comme Python est une approche scientifique bénéfique pour les apprenants et amateurs d’astronomie.
 
-Enfin, si la simulation vous tente, pour commencer, vous pouvez allez voir une des simulations étonnamment réalistes sous un ciel nocturne à 4000 étoiles, ou pourquoi pas survoler de près la planète Mars, et c’est bien sur au Planétarium de la Cité des Sciences à Tunis
+Enfin, si la simulation vous tente, vous pouvez commencer à lire les articles de pyTUNISIA, astropyTUNISIA et pyLearning et de s'abonner à la page facebook pyTUNISIA de Programmation Scientifique avec Python et au groupe astropyTUNISIA d'Astronomie Numérique avec Python.
+
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/py/pyTUNISIA.png)
+
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
+
 
 
 # Bibliographie
