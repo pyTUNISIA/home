@@ -240,14 +240,13 @@ print('Spoutnik : 04.81/10/1957  --> ',jmaTojj(4.81,10,1957))
 print('J2000    : 01.5/01/2000   --> ',jmaTojj(1.5,1,2000))
 
 
-print('-------------- Date de départ  Jour Julien 0 ------------------')
+print('----------- Date de départ  Jour Julien 0 --------')
 print('Date de départ :  1.5/01/-4712  --> ',jmaTojj(1.5,1,-4712))
-print('--------------------------------')
-    
-print('-----------------------')
-print(jjTojma(1842713.0))
-print(jjTojma(1507900.13))
 
+
+print('---------- Dates Spoutnik et J2000 -------------')
+print(jjTojma(2436116.31))
+print(jjTojma(2451545))
 
 ```
 @Pyodide.eval
