@@ -189,7 +189,17 @@ Exemple : Calculer le Jour julien correspondant au 1 er Janvier 2000.Réponse JJ
 # importer le module math
 import math       
 
-# définitions des fonctions
+# Définitions des fonctions
+
+def isAfter15101582(j,m,a):
+    if (a>1582): return True
+    else:
+        if (a==1582 and m>10): return True
+        else:
+            if (a==1582 and m==10 and j>=15): return True
+            else: return False    
+   
+
 def jmaTojj(j,m,a):
     '''
         Calcul jour julien jj à partir d'une date (j,m,a)
