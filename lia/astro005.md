@@ -3,13 +3,13 @@ author: (c) riadh BEN NESSIB
 email: riadhbennessib@gmail.com
 version: 0.1.0
 language: fr
-logo: https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/astroarabe/astroarabe01.jpg
+logo: https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/astroarabe/astroarabe001.png
 comment: astroTUNISIA: Astronomie pour tous.
 mode: Textbook
 -->
 
 # astro005: L'Astronomie arabe entre Ptolémée et Copernic.
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/astroarabe/astroarabe01.jpg)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/astroarabe/astroarabe001.png)
 
 
 # Introduction
@@ -42,7 +42,7 @@ Selon les témoignages des célèbres biographes arabes Ibn-Nadim, Ibn-Al-Qifti 
 
 # Les domaines de l'astronomie arabe
 
-https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/astroarabe/astroarabe01.jpg
+https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/astroarabe/astroarabe001.png
 
 L’astronomie arabe est composée de quatre  sciences, désignées par le terme Ilm et ils sont les suivants :
 1. « Ilm Al-zijet » désigne la science qui détermine la position des planètes à partir des modèles géométriques. Des tables numériques, appelés des Zijs, sont compilées pour le calcul de la position du Soleil, de la Lune et des planètes à diﬀérentes dates.  En fait, le terme Zij est d’origine persane correspondant au grec kanôn, il est souvent utilisé comme terme générique pour désigner de grands traités d’astronomie qui comportent des tables.
