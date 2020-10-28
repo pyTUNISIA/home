@@ -146,11 +146,13 @@ Dans l’Univers de l’informatique, les logiciels qui tournent autour de l’a
 
 En fait, s’ils sont nombreux, beaux à voir avec leurs images numériques illustratifs des phénomènes régnant les objets qu’ils présentent, ces logiciels ne présentent pas les données astronomiques sous forme propice à la compréhension d’un concept, à l’élaboration d’un modèle et à la réalisation d’une simulation.
 
-En choisissant, le concept bien délimité de gravitation, la question précise que je pose alors et à laquelle j’essaye de répondre dans cet article est : Comment utiliser l’ordinateur pour passer de l’image qu’on se fait du ciel à la théorie de la gravitation universelle?
+En choisissant, le concept bien délimité de gravitation, la question précise que je pose alors et à laquelle j’essaye de répondre est : 
+
+> Comment utiliser l’ordinateur pour passer de l’image qu’on se fait du ciel à la théorie de la gravitation universelle? 
 
 A l’heure actuelle, je ressent très fortement la nécessité d’une approche culturelle, scientifique et créative ayant pour objectif le développement de la capacité à appliquer la méthode scientifique dans un contexte pédagogique et simplifié.
 
-Si la science utilise du vocabulaire spécifique et pointu, génère de grands nombres et des échelles de d’espace-temps qui dépassent notre imagination , sa vision du monde reste néanmoins qu’un ensemble de modèles et c’est ainsi que l’Homme explore le réel. Sur la base de ce constat simple, je divise mon approche au problème en trois étapes: Concept, Modèle et Simulation.
+Si la science utilise du vocabulaire spécifique et pointu, génère de grands nombres et des échelles d’espace-temps qui dépassent notre imagination , sa vision du monde reste néanmoins qu’un ensemble de modèles et c’est ainsi que l’Homme explore le réel. Sur la base de ce constat simple, je divise mon approche au problème en trois étapes: Concept, Modèle et Simulation.
 
 # La notion de Concept.
 
@@ -166,12 +168,12 @@ Un modèle est une représentation, en général simplifié, d’un phénomène 
 
 La simulation désigne la mise en œuvre d’un modèle à l’aide de moyens informatiques (ordinateurs et logiciels). Elle se caractérise par la très grande souplesse qu’offre le calcul informatique à:
 
-Incorporer les équations de la physique régissant le phénomène.
-Remplacer les calculs impossibles à résoudre analytiquement par des approximations numériques.
-Manipuler d’énormes volumes de nombres et d’opérations arithmétiques.
-Visualiser les résultats sous formes graphiques.
-Varier les conditions aux limites et les paramètres physiques d’un phénomène.
-Compresser le temps de déroulement du phénomène étudié.
+1. Incorporer les équations de la physique régissant le phénomène.
+2. Remplacer les calculs impossibles à résoudre analytiquement par des approximations numériques.
+3. Manipuler d’énormes volumes de nombres et d’opérations arithmétiques.
+4. Visualiser les résultats sous formes graphiques.
+5. Varier les conditions aux limites et les paramètres physiques d’un phénomène.
+6. Compresser le temps de déroulement du phénomène étudié.
 
 Parmi les triomphes de la simulation on a l’exemple du problème à N-corps. C’est l’étude des mouvements d’un grand nombre de corps en interaction gravitationnelle tels qu’on les rencontre dans les amas globulaires et dans les galaxies. Ce problème est fondamental en mécanique céleste. Pour N=2 (étoile double, étoile-Planète, planète-satellite) et N=3 (avec la condition que la masse d’un des corps soit négligeable par rapports aux autres, le système Soleil-Terre-Lune par exemple) on a pu exhibé des solutions analytiques mais pour N dépassant 3, le problème devient insoluble autrement que par des méthodes numériques utilisant des simulations sur ordinateurs. Grace à ces simulations, la forme et l’évolution dynamique de ces amas et de ces galaxies deviennent prévisibles et comparables à ce que révèle l’observation.
 
