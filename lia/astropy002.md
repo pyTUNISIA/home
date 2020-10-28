@@ -139,3 +139,57 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 # Astropy 002: Le tout gravite autour de l'ordinateur
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
 
+
+# Introduction
+
+Dans l’Univers de l’informatique, les logiciels qui tournent autour de l’astronomie sont nombreux. le logiciel de représentation du ciel Stellarium par exemple est une belle invitation à l’observation du ciel nocturne, on peut l’utiliser aussi comme base de données astronomiques.Celestia, le célèbre logiciel des amateurs d’astronomie, vous présente la carte d’identité universelle du système solaire avec toutes les données numériques et les caractéristiques des différents planètes.
+
+En fait, s’ils sont nombreux, beaux à voir avec leurs images numériques illustratifs des phénomènes régnant les objets qu’ils présentent, ces logiciels ne présentent pas les données astronomiques sous forme propice à la compréhension d’un concept, à l’élaboration d’un modèle et à la réalisation d’une simulation.
+
+En choisissant, le concept bien délimité de gravitation, la question précise que je pose alors et à laquelle j’essaye de répondre dans cet article est : Comment utiliser l’ordinateur pour passer de l’image qu’on se fait du ciel à la théorie de la gravitation universelle?
+
+A l’heure actuelle, je ressent très fortement la nécessité d’une approche culturelle, scientifique et créative ayant pour objectif le développement de la capacité à appliquer la méthode scientifique dans un contexte pédagogique et simplifié.
+
+Si la science utilise du vocabulaire spécifique et pointu, génère de grands nombres et des échelles de d’espace-temps qui dépassent notre imagination , sa vision du monde reste néanmoins qu’un ensemble de modèles et c’est ainsi que l’Homme explore le réel. Sur la base de ce constat simple, je divise mon approche au problème en trois étapes: Concept, Modèle et Simulation.
+
+# La notion de Concept.
+
+La théorie se fonde sur certains concepts comme la masse,la force, ou la charge électrique. ces concepts délimitent un certain champ de représentation qui est le monde que l’on veut décri et se représenter à partir de ces concepts. Il est clair par exemple que la notion de courant électrique échappe au champ de représentation de la mécanique newtonienne, puisque le concept de charge électrique n’existe pas dans la mécanique newtonienne.
+
+A l’intérieur d’un champ de représentation , on élabore des lois à partir de ses concepts. Ces lois constituent l’ossature du modèle par lequel un phénomène est représenté.
+
+# La notion de Modèle.
+
+Un modèle est une représentation, en général simplifié, d’un phénomène ou d’un objet. Son élaboration succède à un ensemble d’observations qui circonscrivent, dénombrent et relient entre eux les divers concepts et propriétés du phénomène ou de l’objet. La comparaison et la confrontation du modèle aux observations testent et validité et la justesse de la représentation du phénomène ou de l’objet. L’acceptation de celui-ci est préservé tant que de nouvelles observations ne remettent pas en question validité. L’astronomie et la physique ont données naissance à de nombreux modèles. les plus simples mais aussi les plus révolutionnaires sont ceux de l’atome d’hydrogène et du système solaire.Ses deux systèmes ont de tout temps intrigué les Homme car ils représentent l’infiniment petit et l’infiniment grand, et à ce propos, je vous invite à lire excellent petit livre intitulé ‘Macro-Micro je mesure l’Univers’, que la Cité des Science à Tunis édite en langue arabe sous le titre ‘أقيس الكون’.
+
+# La notion de Simulation.
+
+La simulation désigne la mise en œuvre d’un modèle à l’aide de moyens informatiques (ordinateurs et logiciels). Elle se caractérise par la très grande souplesse qu’offre le calcul informatique à:
+
+Incorporer les équations de la physique régissant le phénomène.
+Remplacer les calculs impossibles à résoudre analytiquement par des approximations numériques.
+Manipuler d’énormes volumes de nombres et d’opérations arithmétiques.
+Visualiser les résultats sous formes graphiques.
+Varier les conditions aux limites et les paramètres physiques d’un phénomène.
+Compresser le temps de déroulement du phénomène étudié.
+
+Parmi les triomphes de la simulation on a l’exemple du problème à N-corps. C’est l’étude des mouvements d’un grand nombre de corps en interaction gravitationnelle tels qu’on les rencontre dans les amas globulaires et dans les galaxies. Ce problème est fondamental en mécanique céleste. Pour N=2 (étoile double, étoile-Planète, planète-satellite) et N=3 (avec la condition que la masse d’un des corps soit négligeable par rapports aux autres, le système Soleil-Terre-Lune par exemple) on a pu exhibé des solutions analytiques mais pour N dépassant 3, le problème devient insoluble autrement que par des méthodes numériques utilisant des simulations sur ordinateurs. Grace à ces simulations, la forme et l’évolution dynamique de ces amas et de ces galaxies deviennent prévisibles et comparables à ce que révèle l’observation.
+
+# Conclusion
+
+Les ordinateurs offrent un moyen puissant de simulation de phénomènes astronomiques. Les programmer via un langage de programmation comme Python est une approche scientifique bénéfique pour les apprenants et amateurs d’astronomie.
+
+Enfin, si la simulation vous tente, pour commencer, vous pouvez allez voir une des simulations étonnamment réalistes sous un ciel nocturne à 4000 étoiles, ou pourquoi pas survoler de près la planète Mars, et c’est bien sur au Planétarium de la Cité des Sciences à Tunis
+
+
+# Bibliographie
+
+1. Pierre-Lena, ‘Les sciences du ciel’, Flammarion 1996.p.85-89,462-463,560-561.
+2. Jean Dunin-Borkowski, ‘ L’astronomie sur un écran d’ordinateur’, Cahiers Clairaut n°46,p.23-25.
+3. Jean-Paul Rosenstiehl, ‘De Newton à Kepler … avec une calculette’, Cahiers Clairaut n°21,p.23-26.
+4. Frédéric Neuville, ‘La gravitation’, Science et vie micro n°36,p.73-74.
+5. Daniel Durand, ‘La systémique’, Que sais-je? presse universitaire de France 1992,p71-78.
+6. Bruno Jarrosson, ‘Invitation à la philosophie des sciences’, collection Points sciences Editions du Seuil 1992,p.155-194.
+
+
+
