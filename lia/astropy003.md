@@ -285,6 +285,7 @@ print(jjTojma(2451545))
 La Comète Halley a passé au périhélie(le point le plus proche du soleil) le 20 Avril 1910 et le 9 février 1986, combien de jours se sont écoulés entre ces deux passages.
 
 Réponse :
+    
     20 Avril 1910   — >                  JJ =2418781.5
     
     9 février 1986  —- > JJ=2446470.5
@@ -293,7 +294,9 @@ Réponse :
     
 **Trouver la date exacte, 10 000 jours après le 21 Mars 1996.**
 
-Réponse : 21 Mars 1996 —- > JJ=2450163.5
+Réponse :
+    
+    21 Mars 1996 —- > JJ=2450163.5
 
     On ajoute 10 000 jours
     
