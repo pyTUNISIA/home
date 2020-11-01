@@ -1,5 +1,11 @@
 # astropyTUNISIA
 
+## Galilée et le mouvement parabolique
+<preview-lia 
+src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astropy004.md#1">
+</preview-lia> 
+
+
 ## Calcul du jour julien
 <preview-lia 
 src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astropy003.md#1">
