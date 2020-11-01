@@ -155,7 +155,7 @@ Le calcul arithmétique est le moyen le plus convenable pour le calcul astronomi
 
 # Le Calcul astronomique
 
-Pour calculer ce jour julien, je vous passe l’adresse de l’institut de mécanique céleste et de calcul des éphémérides (IMCCE) à la page Calcul du Jour Julien, il suffit de faire entrer la date et de cliquer sur calcul pour avoir le résultat. Et pour calculer ce jour julien, ou pour le programmer par vous-même, veuillez voir les points 7 , 8 et 9  suivants.
+Pour calculer ce jour julien, je vous passe l’adresse de l’institut de mécanique céleste et de calcul des éphémérides (IMCCE) à la page Calcul du Jour Julien, il suffit de faire entrer la date et de cliquer sur calcul pour avoir le résultat. Et pour calculer ce jour julien, ou pour le programmer par vous-même, veuillez voir les deux algorithmes suivants.
 
 ## La méthode de calcul du Jour Julien.
 
@@ -180,17 +180,11 @@ Exemple : Calculer le Jour julien correspondant au 1 er Janvier 2000.Réponse JJ
 
 
 # Programmation Python.
+Commençons par deux routines qui déterminent si une date (j,m,a) est dans le calendrier Julier ou grégorien.
 
 ```python
-#----------------------
-# Calcul du jour julien
-#----------------------
-
-# importer le module math
-import math       
-
 # Définitions des fonctions
-
+#--------------------------
 def isAfter15101582(j,m,a):
     if (a>1582): return True
     else:
@@ -198,7 +192,23 @@ def isAfter15101582(j,m,a):
         else:
             if (a==1582 and m==10 and j>=15): return True
             else: return False    
-   
+#    Méthode directe
+def isBefore15101582(j,m,a):
+    delta = a + m / 100 + j / 10000
+    if delta  < 1582.1015: return True
+    else: return False
+```
+@Pyodide.eval
+
+
+
+```python
+#----------------------
+# Calcul du jour julien
+#----------------------
+
+# importer les fonctions floor et int du module math
+from math import floor,int 
 
 def jmaTojj(j,m,a):
     '''
@@ -211,28 +221,26 @@ def jmaTojj(j,m,a):
     if (m<3):
         m=m+12
         a=a-1
-    _a=math.floor(a/100)
+    _a=floor(a/100)
     if isAfter15101582(j,m,a):  
-         b=2- _a + math.floor(_a/4)        
+         b=2- _a + floor(_a/4)        
     else:
          b=0
-       
-    jj=math.floor(365.25*(a+4716))+ math.floor(30.6001*(m+1))+ j+b-1524.5
+    jj=floor(365.25*(a+4716))+ floor(30.6001*(m+1))+ j+b-1524.5
     return jj
 
 def jjTojma(jj):
-        
-    Z=math.floor(jj+0.5)
+    Z=floor(jj+0.5)
     F=jj+0.5-Z
     if (Z< 2299161):
         A=Z
     else:
-        alpha=math.floor( (Z - 1867216.25) / 36524.25  )
-        A= Z +1 +alpha - math.floor(alpha/4)
+        alpha=floor( (Z - 1867216.25) / 36524.25  )
+        A= Z +1 +alpha - floor(alpha/4)
     B= A + 1524
-    C= math.floor( (B-122.1) / 365.25)
-    D=math.floor(365.25*C)
-    E=math.floor((B-D)/30.6001)
+    C= floor( (B-122.1) / 365.25)
+    D=floor(365.25*C)
+    E=floor((B-D)/30.6001)
     
     j= B-D-math.floor(30.6001 *E)+F   # j : jour décimal
     
@@ -244,7 +252,14 @@ def jjTojma(jj):
     else: a=C-4715
     return [j,m,a]
 
+```
+@Pyodide.eval
+
+Faisons des tests sur des dates particulières :
+
+```python
 # Execution et tests
+#--------------------
 print('----------- Dates mémorables ---------------------')
 print('Spoutnik : 04.81/10/1957  --> ',jmaTojj(4.81,10,1957))
 print('J2000    : 01.5/01/2000   --> ',jmaTojj(1.5,1,2000))
@@ -274,6 +289,7 @@ Réponse :
     20 Avril 1910   — >                  JJ =2418781.5
     9 février 1986  —- > JJ=2446470.5
     La différence est 27689 jours
+    
 **Trouver la date exacte, 10 000 jours après le 21 Mars 1996.**
 
 Réponse : 21 Mars 1996 —- > JJ=2450163.5
@@ -292,8 +308,8 @@ c’est un Vendredi et c’est le jour de la révolution tunisienne !
 
 # Références :
 
-1. Jean Meeus, Astronomical algorithms,Ed Willman-Bell 1991, p.59-66.
-
-2. http://www.imcce.fr/fr/grandpublic/systeme/promenade/pages2/278.html
+1. https://fr.wikipedia.org/wiki/Jour_julien
+2. Jean Meeus, Astronomical algorithms,Ed Willman-Bell 1991, p.59-66.
+3. http://www.imcce.fr/fr/grandpublic/systeme/promenade/pages2/278.html
 
 
