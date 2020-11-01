@@ -208,7 +208,7 @@ def isBefore15101582(j,m,a):
 #----------------------
 
 # importer les fonctions floor et int du module math
-from math import floor,int 
+from math import floor
 
 def jmaTojj(j,m,a):
     '''
@@ -242,7 +242,7 @@ def jjTojma(jj):
     D=floor(365.25*C)
     E=floor((B-D)/30.6001)
     
-    j= B-D-math.floor(30.6001 *E)+F   # j : jour décimal
+    j= B-D-floor(30.6001 *E)+F   # j : jour décimal
     
     if (E<14): m=E-1 
     else: m=E-13
