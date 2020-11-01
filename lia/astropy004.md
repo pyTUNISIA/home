@@ -140,11 +140,38 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
 
 
-# Galilée
+# Introduction à Galilée
 
-# Introduction
+![Galilée.png](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/scientifiques/Galilée.jpg)
 
-# Présentation 
+Galilée est, d'abord et avant tout, un phisicien: 
+
+Il a étudié:
+* Le pendule
+* Le principe d'inertie
+* Le plan incliné
+* La chute des corps
+* Le mouvement parabolique
+
+Galilée est aussi un astronome de premier plan: 
+
+Il a découvert: 
+* Les satellites de la planète Jupiter
+* Les phases de la planètes vénus
+* Les montagnes lunaires
+* Les anneaux de la planète Saturne
+* La voie lactée notre galaxie
+
+
+# Présentation des activités python
+
+Le but de cet atelier d'astronomie numérique avec python est de se familiariser avec la démarche scientifique qui consiste à définir les concepts astronomiques du problème en question, de modéliser les lois physiques qui régissent le phènomènes et enfin simuler le phènomène avec python.
+
+ * Utiliser les bibliothèques scientifiques numpy et matplotlib.
+ * Utiliser la méthode d'Euler pour résoudre une équation différentielle
+ * Représenter graphiquement les résultats
+ * Modifier les paramètres et comparer les résultats
+ * Comprendre les limites des méthodes numériques 
 
 
  
@@ -156,10 +183,11 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 ## Modèle
 L'équation du mouvement du pendule est : $ \ddot\theta=- \omega_0 ^{2} \sin(\theta)$ avec $\omega_0= \sqrt\frac{g}{l} $
 
-
 **Notes** :
 * C'est une équation différentielle d'ordre 2 (on a une dérivée seconde).
 * C'est une équation différentielle non linéaire (on a un $\sin(\theta)$).
+
+
 ## Simulation
 Posons $X=[\theta, \dot \theta]$
 donc $\dot X=[\dot\theta, \ddot \theta]=[\dot\theta ,- \omega_0 ^{2} \sin(\theta)]$
