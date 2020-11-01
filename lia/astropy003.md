@@ -278,7 +278,7 @@ print(jjTojma(2451545))
 
 
 
-# Les applications :
+# Les applications 
 
 **Calcul du nombre de jours écoulés  entre deux dates.**
 
@@ -289,7 +289,8 @@ Réponse :
     20 Avril 1910   — >                  JJ =2418781.5
     9 février 1986  —- > JJ=2446470.5
     La différence est 27689 jours
-    
+  
+  
 **Trouver la date exacte, 10 000 jours après le 21 Mars 1996.**
 
 Réponse : 21 Mars 1996 —- > JJ=2450163.5
@@ -306,7 +307,7 @@ Jour de la semaine = (2455575,5+0.5) mod  7 = 4 ;
 c’est un Vendredi et c’est le jour de la révolution tunisienne !
 
 
-# Références :
+# Références 
 
 1. https://fr.wikipedia.org/wiki/Jour_julien
 2. Jean Meeus, Astronomical algorithms,Ed Willman-Bell 1991, p.59-66.
