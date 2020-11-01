@@ -145,6 +145,8 @@ Dans ce qui suit, je vous présente une méthode de conversion de dates données
 
 Le jour julien (JJ) est un compte continu de jours et de fractions de jours depuis le début de l’année -4712. Par tradition et pour des raisons astronomiques, le JJ commence à minuit Greenwich, c.-à-d. à 12h temps Universel.
 
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astro/scientifiques/jfherschel.jpg)
+
 C'est à l'astronome Anglais John Frederick William Herschel que l'on doit la création du Jour Julien tel que nous le connaissons aujourd'hui. Il le fait en 1849 dans un ouvrage qui fait référence chez les astronomes "Outlines of Astronomy".John Frederick William Herschel (1792-1871), créateur du Jour julien, était le fils du célébre astronome anglais William Herschel (1738-1822), fondateur de l'astronomie stellaire moderne à qui on lui doit la découverte d'Uranus et de deux de ses plus gros satellites. 
 
 Le calendrier julien a été établit par l’empire romain par Jules César en l’an -45 et arrivé à sa forme finale aux  alentours de l’an +8. Nous suivons la pratique des astronomes qui consiste à extrapoler le calendrier julien indéfiniment au passé. Dans ce système, on peut parler, par exemple, d’une éclipse solaire du 28 Août de l’année -1203, bien qu’en ce temps là l’empire romain n’était pas fondé, encore moins le mois d’Août qui n’était pas conçu !
