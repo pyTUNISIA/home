@@ -284,26 +284,32 @@ print(jjTojma(2451545))
 
 La Comète Halley a passé au périhélie(le point le plus proche du soleil) le 20 Avril 1910 et le 9 février 1986, combien de jours se sont écoulés entre ces deux passages.
 
-
 Réponse :
     20 Avril 1910   — >                  JJ =2418781.5
+    
     9 février 1986  —- > JJ=2446470.5
+    
     La différence est 27689 jours
-  
-  
+    
 **Trouver la date exacte, 10 000 jours après le 21 Mars 1996.**
 
 Réponse : 21 Mars 1996 —- > JJ=2450163.5
+
     On ajoute 10 000 jours
+    
     On trouve JJ=2460163.5
+    
     Qui correspond à  7 Août 2023.
+    
 
 **Calcul du jour de la semaine.**
 
 A partir de la date (à 0 h), calculer le jour julien JJ,  ajouter 0.5 et diviser par 7. Le reste de la division indiquera le jour de la semaine comme suit :0 pour Lundi, 1 Mardi, 2 Mercredi, 3 Jeudi,  4 Vendredi, 5 Samedi  et 6 pour Dimanche.
 
 Exemple : 14 janvier  2011  — > JJ=2455575,5
+
 Jour de la semaine = (2455575,5+0.5) mod  7 = 4 ;
+
 c’est un Vendredi et c’est le jour de la révolution tunisienne !
 
 
