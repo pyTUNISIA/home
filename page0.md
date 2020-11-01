@@ -6,7 +6,7 @@
 src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astro008.md#1">
 </preview-Lia>
 
-## Les Cadrants Solaires.
+## Les Cadrans Solaires.
 
 <preview-Lia
 src ="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astro007.md#1">
