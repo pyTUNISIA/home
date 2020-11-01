@@ -180,7 +180,7 @@ Exemple : Calculer le Jour julien correspondant au 1 er Janvier 2000.Réponse JJ
 
 
 # Programmation Python.
-Commençons par deux routines qui déterminent si une date (j,m,a) est dans le calendrier Julier ou grégorien.
+Commençons par deux routines qui déterminent si une date (j,m,a) est dans le calendrier Julien ou Grégorien.
 
 ```python
 # Définitions des fonctions
