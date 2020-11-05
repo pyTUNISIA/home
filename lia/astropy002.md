@@ -136,7 +136,7 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 -->
 
 
-# Astropy 002: Le tout gravite autour de l'ordinateur
+# astropy002: Le tout gravite autour de l'ordinateur
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
 
 
