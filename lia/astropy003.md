@@ -136,7 +136,7 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 -->
 
 
-# Astropy 003: Calcul du jour julien
+# astropy003: Calcul du jour julien
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
 
 Dans ce qui suit, je vous présente une méthode de conversion de dates données dans le calendrier Julien ou le calendrier Grégorien, vers le nombre Jour Julien correspondant, et vice versa.
