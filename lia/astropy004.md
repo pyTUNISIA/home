@@ -136,7 +136,7 @@ if ( pyodide.globals.img_str_["plot-@0"] )
 -->
 
 
-# Astropy 004: Galilée et le mouvement parabolique
+# astropy004: Galilée et le mouvement parabolique
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
 
 
