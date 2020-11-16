@@ -1,6 +1,6 @@
 # astropyTUNISIA
 
-## Galilée et le mouvement parabolique
+## Galilée et le pendule simple
 <preview-lia 
 src="https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/astropy004.md#1">
 </preview-lia> 
