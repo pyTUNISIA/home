@@ -7,7 +7,7 @@
 [Conférences]()
   
   * [pyconfTUNISIA2019]( https://pytunisia.github.io/home/pyconfTUNISIA.html)
-  * [pyconfGreenNight2020](https://pytunisia.github.io/home/pyconfTUNISIA.html)
+  * [pyconfGreenNight2020](https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//z8ARdI20E/download#1)
 
 [A propos](page4.md) 
 
