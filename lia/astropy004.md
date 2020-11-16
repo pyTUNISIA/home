@@ -4,7 +4,7 @@ email:    riadhbennessib@gmail.com
 version:  0.1.0
 language: fr
 logo:     https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png
-comment:  Astropy 004: Galilée et le mouvement parabolique
+comment:  Astropy 004: Galilée et le pendule simple
 mode: Textbook
 script:   https://pyodide-cdn2.iodide.io/v0.15.0/full/pyodide.js
 @onload
