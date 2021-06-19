@@ -11,3 +11,11 @@
   <p align="center">© riadh BEN NESSIB.</p>
 
 </p>
+
+
+<p align="center">
+
+  <img src="images/logos/QR-Code-pyTUNISIA.png" alt="image de qr code" />
+  <p align="center">QR-Code-pyTUNISIA.</p>
+
+</p>
