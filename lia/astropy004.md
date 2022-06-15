@@ -156,9 +156,13 @@ Galilée est, d'abord et avant tout, un physicien:
 Il a étudié:
 
 * Le pendule simple
+
 * Le principe d'inertie
+
 * Le plan incliné
+
 * La chute des corps
+
 * Le mouvement parabolique
 
 Galilée est aussi un astronome de premier plan: 
