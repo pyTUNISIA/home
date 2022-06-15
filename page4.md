@@ -1,4 +1,5 @@
 
 # Goto pyscript interpreter 
 
-https://liascript.github.io/course/?https://github.com/pyTUNISIA/home/blob/master/Liapyscript/Lia01.md
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/Liapyscript/Lia01.md#1
