@@ -154,6 +154,7 @@ Galilée (Galileo Galilei), né à Pise en 1564 et mort à Arcetri près de Flor
 Galilée est, d'abord et avant tout, un physicien: 
 
 Il a étudié:
+
 * Le pendule simple
 * Le principe d'inertie
 * Le plan incliné
@@ -163,6 +164,7 @@ Il a étudié:
 Galilée est aussi un astronome de premier plan: 
 
 Il a découvert: 
+
 * Les satellites de la planète Jupiter
 * Les phases de la planète Vénus
 * Les montagnes lunaires
@@ -201,6 +203,7 @@ Les ***objectifs spécifiques de cet atelier *** sont:
 L'équation du mouvement du pendule est : $$ \ddot\theta=- \omega_0 ^{2} \sin(\theta)$$ avec $\omega_0= \sqrt\frac{g}{l} $
 
 **_Notes**_ :
+
 * C'est une équation différentielle d'ordre 2 (on a une dérivée seconde).
 * C'est une équation différentielle non linéaire (on a un $\sin(\theta)$).
 
