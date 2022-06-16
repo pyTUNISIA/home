@@ -1,16 +1,7 @@
+# Conférences
 
-# Goto pyTUNISIA.github.io
+## [pytalkGreenNight2020](https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//sXwr1fOZD/download#1)
 
-https://pytunisia.github.io/home/#!index.md
+## [pyconfGreenNight2020](https://liascript.github.io/course/?https://liamd.informatik.tu-freiberg.de//z8ARdI20E/download#1) 
 
-
-# Goto pyscript interpreter 
-
-
-https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/Liapyscript/Lia01.md#1
-
-
-# Goto vscode.dev
-
-
-https://vscode.dev/github/pyTUNISIA/home
+## [pyAstroFST2022](https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/conférences/pyAstroFST2022.md#1)
