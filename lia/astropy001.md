@@ -74,7 +74,7 @@ Une galaxie est un ensemble de milliards d'étoiles.
 
 > La loi de gravitation universelle stipule que deux masses M et m s'attirent mutuellement avec une force proportionnelle aux masses et inversement proportionnelle au carré de la distance r qui les sépare:
 >  $$ \vec{F} = - \frac{ G M m }{r^2} \vec{u}$$
->
+
 
 ## Python
 
