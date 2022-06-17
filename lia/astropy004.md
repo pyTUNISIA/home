@@ -283,16 +283,14 @@ afficheParametres()
 ```python @PyScript.repl
 #- Affichage du mouvement
 #------------------------
-def plotMouvement():
-    fig1=plt.figure()
-    plt.title('Mouvement du pendule')
-    plt.plot(t,x0)
-    plt.xlabel("$ t $")
-    plt.ylabel("$\Theta $")
-    plt.show()
-    plot(fig1)
+fig1=plt.figure()
+plt.title('Mouvement du pendule')
+plt.plot(t,x0)
+plt.xlabel("$ t $")
+plt.ylabel("$\Theta $")
+plt.show()
+fig1
 
-plotMouvement()
 
 ```
 
@@ -306,15 +304,12 @@ plotMouvement()
 ```python @PyScript.repl
 #- Affichage du diagramme des phases
 #-----------------------------------
-def plotDiagramme():
-    fig2=plt.figure()
-    plt.title('Diagramme de phase')
-    plt.plot(x0,x1)
-    plt.xlabel("$\Theta $")
-    plt.ylabel("$\dot\Theta $")
-    fig2
-
-plotDiagramme()
+fig2=plt.figure()
+plt.title('Diagramme de phase')
+plt.plot(x0,x1)
+plt.xlabel("$\Theta $")
+plt.ylabel("$\dot\Theta $")
+fig2
 
 ```
 
