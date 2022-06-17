@@ -261,16 +261,13 @@ x1=X[:,1] # x1 est la soluton Euler de la dérivée de x
 ```python @PyScript.repl
 #- Affichage des paramètres du pendule
 #-------------------------------------
-def afficheParametres():
-    print('Les paramètres du pendule sont: ')
-    print('g=',g)
-    print('l=',l)
-    print('a=',a)
-    print('b=',b)
-    print('X0=',X0)
-    print('n=',n)
-
-afficheParametres()
+print('Les paramètres du pendule sont: ')
+print(f'g={g:6.4f}')
+print(f'l={l:6.4f}')
+print(f'a={a:6.4f}v')
+print(f'b={b:6.4f}')
+print(f'X0=',X0)
+print(f'n={n:6.4f}')
 
 ```
 
