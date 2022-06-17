@@ -1,139 +1,54 @@
 <!--
 author:   (c) riadh BEN NESSIB
 email:    riadhbennessib@gmail.com
-version:  0.1.0
+version:  0.2.0
 language: fr
 logo:     https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png
 comment:  Astropy 004: Galilée et le pendule simple
 mode: Textbook
-script:   https://pyodide-cdn2.iodide.io/v0.15.0/full/pyodide.js
-@onload
-window.languagePluginUrl = 'https://pyodide-cdn2.iodide.io/v0.15.0/full/'
-window.pyodide_ready = false;
-window.pyodide_modules = new Set()
-window.py_packages = ["matplotlib", "numpy"]
-window.loadModules = function() {
-  languagePluginLoader.then(() => {
-    console.log("pyodide is ready")
-    if (window.py_packages) {
+script:   https://javascript_resourse_url
 
-      for( let i = 0; i < window.py_packages.length; i++ ) {
-        window.pyodide_modules.add(window.py_packages[i])
-      }
+script:   https://cdn.jsdelivr.net/gh/liatemplates/pyscript@0.0.4/dist/pyscript.min.js
 
-      pyodide.loadPackage(window.py_packages).then(() => {
-        console.log("all packages loaded")
-        window.pyodide_ready = true;
-      });
-    }
-    else {
-      window.pyodide_ready = true;
-    }
-  })
-}
+link:     https://cdn.jsdelivr.net/gh/liatemplates/pyscript@0.0.4/dist/pyscript.css
 
-window.loadModules()
+persistent:  true   
 
+
+@PyScript.env
+<lia-keep>
+<py-env>
+@0
+</py-env>
+</lia-keep>
 @end
 
+@PyScript.repl: @PyScript.replWith( ,```@0```)
 
-@Pyodide.eval: @Pyodide.eval_(@uid)
-
-@Pyodide.eval_
-<script>
-
-function initPlot() {
-try {
-
-pyodide.runPython(`
-import io, base64
-
-try:
-  img_str_
-except NameError:
-  img_str_ = {}
-
-def plot(fig, id="plot-@0"):
-  buf = io.BytesIO()
-  fig.savefig(buf, format='png')
-  buf.seek(0)
-  img_str_[id] = "data:image/png;base64," + base64.b64encode(buf.read()).decode('UTF-8')
-`)
-} catch (e) {}
-}
-
-function copyPlot() {
-  if ( pyodide.globals.img_str_["plot-@0"] ) {
-    document.getElementById("plot-@0").src = pyodide.globals.img_str_["plot-@0"]
-    document.getElementById("plot-@0").parentElement.style = ""
+@PyScript.replWith
+<lia-keep>
+<style>
+  .output {
+    font-style: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin-left: 0px;
+    float: left;
   }
-}
 
-////////////////////////////////////////////////////
-
-function runPython() {
-  if (window.pyodide_ready) {
-    pyodide.globals.print = (...e) => { e = e.slice(0,-1); console.log(...e) };
-    setTimeout(() => {
-      try {
-        initPlot()
-
-        let fin = pyodide.runPython(`@input`)
-        if (fin) {
-          console.log(fin)
-        }
-        copyPlot()
-        send.lia("LIA: stop")
-      } catch(e) {
-        //window.py_packages = ["matplotlib"]
-        let module = e.message.match(/ModuleNotFoundError: No module named '([^']+)/g)
-        if (! module) {
-          console.error(e)
-          //let msg = e.message.match(/File "<unknown>", line (\d+)\n.*\n.*\n.*/g)
-          //window.console.log(msg[0])
-          send.lia("LIA: stop")
-        }
-        else if (module.length != 0) {
-          module = module[0].split("'")[1]
-          if (window.pyodide_modules.has(module)) {
-            console.error(e)
-            send.lia("LIA: stop")
-          } else {
-            console.debug("downloading module =>", module)
-            window.py_packages = [ module ]
-            window.pyodide_ready = false
-            window.loadModules()
-            runPython()
-          }
-        }
-        else {
-          console.error(e)
-
-          send.lia("LIA: stop")
-        }
-      }
-    }, 100)
-  } else {
-    setTimeout(runPython, 234)
+  .mt-2 {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 15px !important;
   }
-}
 
-runPython()
-
-"LIA: wait";
-</script>
-
-<div id="pyplotdiv" style="display:none"><img id="plot-@0" /></div>
-
-<script>
-try {
-if ( pyodide.globals.img_str_["plot-@0"] )
-  document.getElementById("plot-@0").src = pyodide.globals.img_str_["plot-@0"]
-  document.getElementById("plot-@0").parentElement.style = ""
-} catch(e) {}
-
-</script>
-
+  .editor-box {
+    border: 1px solid black;
+  }
+</style>
+<py-repl @0>@1</py-repl>
+</lia-keep>
 @end
 
 -->
@@ -222,13 +137,17 @@ Cette équation différentielle peut être établie par 3 méthodes :
 
 **Etape 01 : Importation des bibliothèques scientifiques numpy et matplotlib **
 
-```python
+``` python @PyScript.env
+- matplotlib
+- numpy
+```
+
+```python @PyScript.repl
 #- Importation des bibliothèques scientifiques numpy et matplotlib
 #----------------------------------------------------------------
 import numpy as np
 import matplotlib.pyplot as plt
 ```
-@Pyodide.eval
 
 ----
 
@@ -271,7 +190,7 @@ La méthode peut s’interpréter de plusieurs manières :
 
 La fonction python suivante implémente cette méthode façile mais peut précise! Cette méthode s'appelle la méthode d'**Euler explicite**.
 
-```python
+```python @PyScript.repl
 #- Méthode d'Euler Explicite
 #---------------------------
 def Euler(F,a,b,X0,n):
@@ -294,7 +213,6 @@ def Euler(F,a,b,X0,n):
     return t,X
 
 ```
-@Pyodide.eval
 
 
 ----
@@ -307,7 +225,7 @@ donc $\dot X=[\dot\theta, \ddot \theta]=[\dot\theta ,- \omega_0 ^{2} \sin(\theta
 
 Soit $F(X)=F([x0,x1])=[x1,- \omega_0 ^{2} \sin(x0)]$
 
-```python
+```python @PyScript.repl
 #- Définition de l'équation du mouvement
 #---------------------------------------
 g=9.81 # m/s^2
@@ -317,14 +235,13 @@ def F(t,X):
     return np.array([X[1],-OMEGA * np.sin(X[0])])
 
 ```
-@Pyodide.eval
 
 
 ----
 **Etape 04 : Résolution de l'équation différentielle**
 
 
-```python
+```python @PyScript.repl
 #- Résolution de l'équation différentielle
 #-----------------------------------------
 T=12 # secondes
@@ -335,14 +252,13 @@ x0=X[:,0] # x0 est la soluton Euler de x
 x1=X[:,1] # x1 est la soluton Euler de la dérivée de x
 
 ```
-@Pyodide.eval
 
 
 ----
 
 **Etape 05 : Affichage des paramètres du pendule**
 
-```python
+```python @PyScript.repl
 #- Affichage des paramètres du pendule
 #-------------------------------------
 def afficheParametres():
@@ -357,7 +273,6 @@ def afficheParametres():
 afficheParametres()
 
 ```
-@Pyodide.eval
 
 
 ----
@@ -365,7 +280,7 @@ afficheParametres()
 
 **Etape 06 : Affichage du mouvement du pendule**
 
-```python
+```python @PyScript.repl
 #- Affichage du mouvement
 #------------------------
 def plotMouvement():
@@ -380,7 +295,6 @@ def plotMouvement():
 plotMouvement()
 
 ```
-@Pyodide.eval
 
 
 ----
@@ -389,7 +303,7 @@ plotMouvement()
 **Etape 07 : Affichage du diagramme des phases**
 
 
-```python
+```python @PyScript.repl
 #- Affichage du diagramme des phases
 #-----------------------------------
 def plotDiagramme():
@@ -398,13 +312,11 @@ def plotDiagramme():
     plt.plot(x0,x1)
     plt.xlabel("$\Theta $")
     plt.ylabel("$\dot\Theta $")
-    plt.show()
-    plot(fig2)
+    fig2
 
 plotDiagramme()
 
 ```
-@Pyodide.eval
 
 
 
