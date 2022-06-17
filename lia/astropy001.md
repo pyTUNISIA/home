@@ -1,7 +1,7 @@
 <!--
 author:   (c) riadh BEN NESSIB
 email:    riadhbennessib@gmail.com
-version:  0.1.0
+version:  0.2.0
 language: fr
 logo:     https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png
 comment:  astropyTUNISIA: Astronomie Numérique avec Python.
