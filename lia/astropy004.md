@@ -264,7 +264,7 @@ x1=X[:,1] # x1 est la soluton Euler de la dérivée de x
 print('Les paramètres du pendule sont: ')
 print(f'g={g:6.4f}')
 print(f'l={l:6.4f}')
-print(f'a={a:6.4f}v')
+print(f'a={a:6.4f}')
 print(f'b={b:6.4f}')
 print(f'X0=',X0)
 print(f'n={n:6.4f}')
