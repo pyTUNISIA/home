@@ -106,6 +106,5 @@ ax.plot(t, s)
 ax.grid(True, linestyle='-.')
 ax.tick_params(labelcolor='r', labelsize='medium', width=3)
 plt.show()
-plot(fig) 
 # ------------------------
 ```
