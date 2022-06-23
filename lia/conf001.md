@@ -120,38 +120,52 @@ Pour installer stellarium sur votre ordinateur, visitez le site web [stellarium.
 ## ** Direction du Sud **
 
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/Sud.png)
+
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/SudArabe.png)
+
 ## ** Direction du Nord**
 
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/Nord.png)
+
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/NordArabe.png)
 
 # L'Interface Graphique (GUI)
+
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/Tools.png)
+
 # Les fonctions de base (Mindmap)
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/StellariumAnimationFreeplane.png)
+
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/StellariumAnimationFreeplane.PNG)
+
 
 # **F1** Aide
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F1.png)
+
 # **F2** Configuration Stellarium
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F2.png)
+
 # **F3** Recherche
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F3.png)
+
 # **F4** Configuration Ciel
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F4.png)
+
 # **F5** Date et Heure
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F5.png)
+
 # **F6** Lieu d'observation
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F6.png)
+
 # **F10** Calculs Astronomiques
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F10.png)
+
 # Conclusion
 
 Le logiciel **Stellarium** offre un moyen puissant de simulaion de ce que l'on verrait réellement à l'œil nu, aux jumelles ou avec un petit télescope. Enfin, pour commencer, vous pouvez lire d'autres articles et ateliers du site Github (astropyTUNISIA) rubrique astronomie pour tous(astroTUNISIA).
 
 **Le site github rubrique astroTUNISIA: Astronomie pour tous!**
 
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIAGithub.png)<!--
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIAGithub.PNG)<!--
 style = "width: 900px;
         Height:500px;
         display: flex;
