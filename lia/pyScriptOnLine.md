@@ -54,7 +54,7 @@ persistent:  true
 
 
 # pyScript: Python in the browser!
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyscript02.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyscript01.png)
 
 ## Introduction
 
