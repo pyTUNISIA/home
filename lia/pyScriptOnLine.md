@@ -58,7 +58,7 @@ persistent:  true
 
 ## Introduction
 
-Welcome to Python on the web!
+Welcome to Python in the web!
 
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyscript03.png)
 
