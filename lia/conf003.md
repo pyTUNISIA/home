@@ -9,10 +9,7 @@ mode: Textbook
 -->
 
 
-![Image astroTUNISIA.png](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
-
-
 # Conférence Astronomie numérique avec Python à la FST en 2022
 
+![Image astroTUNISIA.png](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
 
-[pyAstroFST2022](https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/conférences/pyAstroFST2022.md#1)
