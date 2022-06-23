@@ -1,5 +1,5 @@
 # pyLearning
-## Interpreteur pyScript on the web.
+## Interpreteur pyScript in the web.
 
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyscript01.png)
 

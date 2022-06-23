@@ -53,7 +53,7 @@ persistent:  true
 -->
 
 
-# pyScript: Python on the browser!
+# pyScript: Python in the browser!
 ![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyscript02.png)
 
 ## Introduction
