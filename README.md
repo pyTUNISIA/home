@@ -6,9 +6,9 @@ pyTUNISIA
 
 
 
-# Goto pyscript interpreter 
+# Go to pyscript interpreter 
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/Liapyscript/Lia01.md#1
+https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/pyScriptOnLine.md#1
 
 
 # Goto pyTUNISIA.github.io
