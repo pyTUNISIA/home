@@ -1,7 +1,7 @@
 # pyLearning
-## Interpreteur pyScript online
+## Interpreteur pyScript on the web.
 
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyScript01.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyscript01.png)
 
 
 [Go to pyScript editor](https://liascript.github.io/course/?https://raw.githubusercontent.com/pyTUNISIA/home/master/lia/pyScriptOnLine.md#1)

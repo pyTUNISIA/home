@@ -54,13 +54,13 @@ persistent:  true
 
 
 # pyScript: Python on the browser!
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyScript02.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyscript02.png)
 
 ## Introduction
 
 Welcome to Python on the web!
 
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyScript03.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyscript03.png)
 
 
 ## pyScript editor
