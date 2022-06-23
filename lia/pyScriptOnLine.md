@@ -54,7 +54,7 @@ persistent:  true
 
 
 # pyScript: Python on the browser!
-![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIA.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyScript02.png)
 
 ## Introduction
 
