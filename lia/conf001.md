@@ -12,7 +12,7 @@ mode: Textbook
 
 #  GreenNight2020: Introduction à Stellarium
 
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_fe6de3c082f613f5cfc46aac8a5356c3.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium.jpg)
 
 ----
 >  * Atelier:  Introduction à Stellarium
@@ -37,7 +37,7 @@ mode: Textbook
 
 Stellarium est un logiciel libre de planétarium, sous licence GNU GPL, disponible pour GNU/Linux, Windows et Mac OS X. Il utilise OpenGL pour afficher le ciel de manière photo-réaliste en temps réel. Il est ainsi possible de simuler sur un écran ce que l'on verrait réellement à l'œil nu, aux jumelles ou avec un petit télescope. (Wikipédia)
 
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_b3babc08b8a0b3ce6cfdbdf620e9d659.png)<!--
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/Tools.png)<!--
 style = "width: 1000px;
         Height:600px;
         display: flex;
@@ -104,13 +104,13 @@ Stellarium inclut également des images des planètes, satellites et astéroïde
 Pour installer stellarium sur votre ordinateur, visitez le site web [stellarium.org](https://www.stellarium.org) et télécharger la version compatible avec votre système: Windows 32 bits, Windows 64 bits, Linux ou MacOS.
 
 
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_bb2a9ce45b87e7dd61f64018982d2a91.PNG)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/Tools.png)
 
 
 
 # Le ciel à l'oeil nu: étoiles, planètes et constellations
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_e6b30308da6b1992141587048f00ab45.png)
 
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/Tools.png)
 
 
 # Un tour d'horizon
@@ -119,46 +119,39 @@ Pour installer stellarium sur votre ordinateur, visitez le site web [stellarium.
 
 ## ** Direction du Sud **
 
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_2f1a04eebe8acd510f02b8afca3e3c1a.png)
-
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_d8bfa41f987299fcfe5a147a9e936469.png)
-
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/Sud.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/SudArabe.png)
 ## ** Direction du Nord**
 
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_56c33bad3adb110f5b48776e81d49e52.png)
-
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_b502364bda8ea9682b89029a6592fc7e.png)
-
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/Nord.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/NordArabe.png)
 
 # L'Interface Graphique (GUI)
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_a4346ad405912837d0f3b214fc8044d1.png)
-
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/Tools.png)
 # Les fonctions de base (Mindmap)
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_ce0acee4a673c689b52104ec5498edda.PNG)
-
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/StellariumAnimationFreeplane.png)
 
 # **F1** Aide
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_d0e41802917a5140502958ff85f09e8e.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F1.png)
 # **F2** Configuration Stellarium
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_2b6619e4bb7147eaaf72c72e4876cede.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F2.png)
 # **F3** Recherche
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_c337cc69327f23cdd883de920336941c.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F3.png)
 # **F4** Configuration Ciel
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_395352c7abfc972505f9b8f3da291fbc.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F4.png)
 # **F5** Date et Heure
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_7811e7a0896d9d12111db4d6aa0b0d64.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F5.png)
 # **F6** Lieu d'observation
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_62846825318e462b5a868cf116974fa8.png)
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F6.png)
 # **F10** Calculs Astronomiques
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_c1ed0f942f4f8e50ce39d5049d221dc3.png)
-
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/stellarium/F10.png)
 # Conclusion
 
 Le logiciel **Stellarium** offre un moyen puissant de simulaion de ce que l'on verrait réellement à l'œil nu, aux jumelles ou avec un petit télescope. Enfin, pour commencer, vous pouvez lire d'autres articles et ateliers du site Github (astropyTUNISIA) rubrique astronomie pour tous(astroTUNISIA).
 
 **Le site github rubrique astroTUNISIA: Astronomie pour tous!**
 
-![](https://liamd.informatik.tu-freiberg.de/uploads/upload_9e6fde42b29fac1a1f2b6993f2e619ec.PNG)<!--
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/astropy/astropyTUNISIAGithub.png)<!--
 style = "width: 900px;
         Height:500px;
         display: flex;
