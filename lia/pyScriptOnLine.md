@@ -60,6 +60,8 @@ persistent:  true
 
 Welcome to Python on the web!
 
+![](https://raw.githubusercontent.com/pyTUNISIA/home/master/images/logos/pyScript03.png)
+
 
 ## pyScript editor
 
@@ -81,7 +83,7 @@ print('Welcome to  pyScript!')
 ```python @PyScript.repl
 # ----------------------
 # Exemple 02 : Graphique
-# 1. Essayer les fonctions sin, cos, tanh, exp(-x**2) etc...
+# Exercice: Essayer les fonctions sin, cos, tanh, exp(-x**2) etc...
 # ----------------------
 import numpy as np
 import matplotlib.pyplot as plt
